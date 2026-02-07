@@ -1,0 +1,25 @@
+{
+  "name": "pdf-to-epub-converter-claude-a.i-version-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasmuel1/PDF-to-EPUB-Converter-Claude-A.I-Version-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sasmuel1/PDF-to-EPUB-Converter-Claude-A.I-Version-/issues"
+  },
+  "homepage": "https://github.com/Sasmuel1/PDF-to-EPUB-Converter-Claude-A.I-Version-#readme",
+  "dependencies": {
+    "epub-gen": "^0.1.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
